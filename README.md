@@ -1,1 +1,1 @@
-# jsPatters
+# jsPatterns
